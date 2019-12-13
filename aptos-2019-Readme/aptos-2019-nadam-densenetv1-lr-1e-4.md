@@ -74,11 +74,6 @@ train_df.head()
     train_df shape: (3662, 2)
     test_df shape: (1928, 1)
     
-
-
-
-
-
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2032,14 +2027,6 @@ submit.head()
 ```
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2076,7 +2063,7 @@ submit.head()
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
